@@ -1,0 +1,32 @@
+body {
+    background: #CED4D8;
+  } 
+
+  h1 { color: #AC6AC7;}
+
+  h2 {color: rgb(255, 165, 0);}
+
+  li {color: royalblue;}
+
+  p {background-color: gold;}
+
+  input {border: pink 5px dotted;}
+
+
+.first {background-color: #fff;}
+
+
+#important {border: #0000ff 3px dashed;}
+
+div > p {font-size: 30px;}
+
+input[type= "email"] {background-color: #808080;}
+
+div:nth-child(5) > p  {background-color: hotpink} 
+
+div:nth-child(5) > p:nth-child(3) {border: 7px solid rgb(255, 255, 255);}
+
+em {font-size: 25px; color: seashell;}
+
+
+
